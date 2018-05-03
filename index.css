@@ -1,0 +1,29 @@
+.center{
+    display: block;
+    margin: auto;
+}
+.center-title{
+    text-align: center;
+    vertical-align: middle;
+}
+.center-title2{
+    text-align: center;
+    vertical-align: middle;
+}
+body{
+    width: 685;
+}
+.cross{
+    display: flex;
+    flex-direction: column
+}
+.wholebody{
+    background-color: burlywood;
+    border: black;
+    border-radius: 10px;
+    margin: 30px;
+    border-style: ridge;
+}
+.deepnote{
+   margin-left: 40px;
+}
